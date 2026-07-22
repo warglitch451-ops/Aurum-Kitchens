@@ -558,22 +558,22 @@ header.scrolled{
 
 .hero-overlay{
 
-    min-height:inherit;
+    min-height: inherit;
+    display: flex;
+    align-items: center;
 
-    display:flex;
-
-    align-items:center;
-
+    width: 100%;
+    padding: 0 8%;
 }
 
 
 
 .hero-content{
 
-    max-width:800px;
+    width: 100%;
+    max-width: 800px;
 
 }
-
 
 
 .hero-content h1{
